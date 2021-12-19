@@ -3,6 +3,9 @@ const navMenu = document.getElementById('nav-menu'),
     navToggle = document.getElementById('nav-toggle'),
     navClose = document.getElementById('nav-close')
 
+/*====== Smooth Scroll ======= */
+
+
 /*===== MENU SHOW =====*/
 /* Validate if constant exists */
 if (navToggle) {
